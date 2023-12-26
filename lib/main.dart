@@ -53,8 +53,8 @@ Widget portfolioDetails(BuildContext context) {
 Widget titleGroup() {
   return const Center(
     child: Column(
-      mainAxisAlignment: MainAxisAlignment.start,
-      crossAxisAlignment: CrossAxisAlignment.start,
+      mainAxisAlignment: MainAxisAlignment.center,
+      crossAxisAlignment: CrossAxisAlignment.center,
       children: [
         Text('Захар Егоров',
             style: TextStyle(
